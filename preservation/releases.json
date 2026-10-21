@@ -1,0 +1,712 @@
+{
+  "archive_snapshot_date": "2026-10-20",
+  "title": "BeamNG.Earth upstream preservation catalog",
+  "origin_repository": "TecnaGamer/BeamNG.Earth",
+  "intermediate_fork": "KyzoFox/BeamNG.Earth",
+  "preservation_fork": "ashtonbannister/BeamNG.Earth",
+  "original_main_sha": "011d6b54e42407b2f3a6deaddc47305cf2325a47",
+  "kyzofox_1_5_4_branch": "archive/kyzofox-1.5.4",
+  "kyzofox_1_5_4_commit_sha": "e556702e89204b51082b289281e66fff120f2195",
+  "note": "Metadata catalog only. Release binaries are not embedded. All 35 release tag commits were checked reachable from preserved main; git tag refs can be reconstructed using this catalog.",
+  "original_branches": [
+    {
+      "name": "feature/deshadow",
+      "commit_sha": "c3e3bce587beafb7fc65afe39e24935638b7a2f0"
+    },
+    {
+      "name": "feature/devtools",
+      "commit_sha": "0b698bb7737e3f43e7b7595109e14631c0357c2b"
+    },
+    {
+      "name": "feature/gravity",
+      "commit_sha": "674daf5407ccb6b038a68af5e3c18c109829e90e"
+    },
+    {
+      "name": "feature/near-detail",
+      "commit_sha": "51d6db3519c3cd4294c21e9fc521d0c353574532"
+    },
+    {
+      "name": "feature/surface",
+      "commit_sha": "e699adf92cc4bb5a59718b1c043e1f6f04d32c51"
+    },
+    {
+      "name": "feature/weather",
+      "commit_sha": "133e4fd16890981d77ccc148633cc1b159388a9d"
+    },
+    {
+      "name": "main",
+      "commit_sha": "011d6b54e42407b2f3a6deaddc47305cf2325a47"
+    },
+    {
+      "name": "perf/high-speed",
+      "commit_sha": "a7515453968afac01b560f3de5cf871ba48d1181"
+    }
+  ],
+  "releases": [
+    {
+      "tag": "v1.4.5-preview",
+      "commit_sha": "af6f8fb8e48564d95708e04cdc8ffee7a5fde3b4",
+      "title": "BeamNG.Earth 1.4.5-preview",
+      "published_at": "2026-10-16T03:11:21Z",
+      "release_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/tag/v1.4.5-preview",
+      "assets": [
+        {
+          "name": "BeamNG.Earth-1.4.5-preview-x86_64.AppImage",
+          "size_bytes": 66095608,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.5-preview/BeamNG.Earth-1.4.5-preview-x86_64.AppImage"
+        },
+        {
+          "name": "BeamNG.Earth-1.4.5-preview.exe",
+          "size_bytes": 45004484,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.5-preview/BeamNG.Earth-1.4.5-preview.exe"
+        }
+      ]
+    },
+    {
+      "tag": "v1.4.6-preview",
+      "commit_sha": "e77a37767a8ad97591ad26d80c6977e1bcf01c25",
+      "title": "BeamNG.Earth 1.4.6-preview",
+      "published_at": "2026-10-16T06:14:06Z",
+      "release_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/tag/v1.4.6-preview",
+      "assets": [
+        {
+          "name": "BeamNG.Earth-1.4.6-preview-x86_64.AppImage",
+          "size_bytes": 66144760,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.6-preview/BeamNG.Earth-1.4.6-preview-x86_64.AppImage"
+        },
+        {
+          "name": "BeamNG.Earth-1.4.6-preview.exe",
+          "size_bytes": 45058521,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.6-preview/BeamNG.Earth-1.4.6-preview.exe"
+        }
+      ]
+    },
+    {
+      "tag": "v1.4.7-preview",
+      "commit_sha": "acc9c9a757660232f748817bee92e8139dba9857",
+      "title": "BeamNG.Earth 1.4.7-preview",
+      "published_at": "2026-10-16T08:32:17Z",
+      "release_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/tag/v1.4.7-preview",
+      "assets": [
+        {
+          "name": "BeamNG.Earth-1.4.7-preview-x86_64.AppImage",
+          "size_bytes": 66165240,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.7-preview/BeamNG.Earth-1.4.7-preview-x86_64.AppImage"
+        },
+        {
+          "name": "BeamNG.Earth-1.4.7-preview.exe",
+          "size_bytes": 45076826,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.7-preview/BeamNG.Earth-1.4.7-preview.exe"
+        }
+      ]
+    },
+    {
+      "tag": "v1.4.8-preview",
+      "commit_sha": "5eedb80e8bc71fc17bb1105286d1dca927d5a36a",
+      "title": "BeamNG.Earth 1.4.8-preview",
+      "published_at": "2026-10-16T15:38:15Z",
+      "release_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/tag/v1.4.8-preview",
+      "assets": [
+        {
+          "name": "BeamNG.Earth-1.4.8-preview-x86_64.AppImage",
+          "size_bytes": 66189816,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.8-preview/BeamNG.Earth-1.4.8-preview-x86_64.AppImage"
+        },
+        {
+          "name": "BeamNG.Earth-1.4.8-preview.exe",
+          "size_bytes": 45104390,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.8-preview/BeamNG.Earth-1.4.8-preview.exe"
+        }
+      ]
+    },
+    {
+      "tag": "v1.4.9-preview",
+      "commit_sha": "e537599faa43c597f299dabb7bc659d4ef6bdc8f",
+      "title": "BeamNG.Earth 1.4.9-preview",
+      "published_at": "2026-10-16T18:59:55Z",
+      "release_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/tag/v1.4.9-preview",
+      "assets": [
+        {
+          "name": "BeamNG.Earth-1.4.9-preview-x86_64.AppImage",
+          "size_bytes": 66206200,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.9-preview/BeamNG.Earth-1.4.9-preview-x86_64.AppImage"
+        },
+        {
+          "name": "BeamNG.Earth-1.4.9-preview.exe",
+          "size_bytes": 45119133,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.9-preview/BeamNG.Earth-1.4.9-preview.exe"
+        }
+      ]
+    },
+    {
+      "tag": "v1.4.10-preview",
+      "commit_sha": "83077aa3d46bc18f2790910ffbde4272b0047999",
+      "title": "BeamNG.Earth 1.4.10-preview",
+      "published_at": "2026-10-16T19:30:29Z",
+      "release_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/tag/v1.4.10-preview",
+      "assets": [
+        {
+          "name": "BeamNG.Earth-1.4.10-preview-x86_64.AppImage",
+          "size_bytes": 66206200,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.10-preview/BeamNG.Earth-1.4.10-preview-x86_64.AppImage"
+        },
+        {
+          "name": "BeamNG.Earth-1.4.10-preview.exe",
+          "size_bytes": 45119462,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.10-preview/BeamNG.Earth-1.4.10-preview.exe"
+        }
+      ]
+    },
+    {
+      "tag": "v1.4.11-preview",
+      "commit_sha": "b4112ce5d7a6ad34da2fbe0780175034ae781782",
+      "title": "BeamNG.Earth 1.4.11-preview",
+      "published_at": "2026-10-16T19:45:33Z",
+      "release_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/tag/v1.4.11-preview",
+      "assets": [
+        {
+          "name": "BeamNG.Earth-1.4.11-preview-x86_64.AppImage",
+          "size_bytes": 66206200,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.11-preview/BeamNG.Earth-1.4.11-preview-x86_64.AppImage"
+        },
+        {
+          "name": "BeamNG.Earth-1.4.11-preview.exe",
+          "size_bytes": 45119504,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.11-preview/BeamNG.Earth-1.4.11-preview.exe"
+        }
+      ]
+    },
+    {
+      "tag": "v1.4.12-preview",
+      "commit_sha": "66501aa88b3b9253f5117ea21f9dc8fb1c928d61",
+      "title": "BeamNG.Earth 1.4.12-preview",
+      "published_at": "2026-10-16T19:54:40Z",
+      "release_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/tag/v1.4.12-preview",
+      "assets": [
+        {
+          "name": "BeamNG.Earth-1.4.12-preview-x86_64.AppImage",
+          "size_bytes": 66210296,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.12-preview/BeamNG.Earth-1.4.12-preview-x86_64.AppImage"
+        },
+        {
+          "name": "BeamNG.Earth-1.4.12-preview.exe",
+          "size_bytes": 45132383,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.12-preview/BeamNG.Earth-1.4.12-preview.exe"
+        }
+      ]
+    },
+    {
+      "tag": "v1.4.13-beta",
+      "commit_sha": "7c7063681f7941891a07986dddc24fb1723f4ea8",
+      "title": "BeamNG.Earth 1.4.13-beta",
+      "published_at": "2026-10-16T22:55:48Z",
+      "release_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/tag/v1.4.13-beta",
+      "assets": [
+        {
+          "name": "BeamNG.Earth-1.4.13-beta-x86_64.AppImage",
+          "size_bytes": 66501112,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.13-beta/BeamNG.Earth-1.4.13-beta-x86_64.AppImage"
+        },
+        {
+          "name": "BeamNG.Earth-1.4.13-beta.exe",
+          "size_bytes": 45188142,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.13-beta/BeamNG.Earth-1.4.13-beta.exe"
+        }
+      ]
+    },
+    {
+      "tag": "v1.4.14-beta",
+      "commit_sha": "1f61139d837a960dd6f075df7cf4adcec96adddf",
+      "title": "BeamNG.Earth 1.4.14-beta",
+      "published_at": "2026-10-16T23:13:47Z",
+      "release_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/tag/v1.4.14-beta",
+      "assets": [
+        {
+          "name": "BeamNG.Earth-1.4.14-beta-x86_64.AppImage",
+          "size_bytes": 66501112,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.14-beta/BeamNG.Earth-1.4.14-beta-x86_64.AppImage"
+        },
+        {
+          "name": "BeamNG.Earth-1.4.14-beta.exe",
+          "size_bytes": 45189127,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.14-beta/BeamNG.Earth-1.4.14-beta.exe"
+        }
+      ]
+    },
+    {
+      "tag": "v1.4.15-beta",
+      "commit_sha": "37399188a437fea2dbfafca80eb703aeb303796e",
+      "title": "BeamNG.Earth 1.4.15-beta",
+      "published_at": "2026-10-17T03:38:22Z",
+      "release_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/tag/v1.4.15-beta",
+      "assets": [
+        {
+          "name": "BeamNG.Earth-1.4.15-beta-x86_64.AppImage",
+          "size_bytes": 66501112,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.15-beta/BeamNG.Earth-1.4.15-beta-x86_64.AppImage"
+        },
+        {
+          "name": "BeamNG.Earth-1.4.15-beta.exe",
+          "size_bytes": 45188682,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.15-beta/BeamNG.Earth-1.4.15-beta.exe"
+        }
+      ]
+    },
+    {
+      "tag": "v1.4.16-beta",
+      "commit_sha": "ebe09478e89ab1670f9ef48d06fe7bfdc977067d",
+      "title": "BeamNG.Earth 1.4.16-beta",
+      "published_at": "2026-10-17T04:01:17Z",
+      "release_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/tag/v1.4.16-beta",
+      "assets": [
+        {
+          "name": "BeamNG.Earth-1.4.16-beta-x86_64.AppImage",
+          "size_bytes": 66505208,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.16-beta/BeamNG.Earth-1.4.16-beta-x86_64.AppImage"
+        },
+        {
+          "name": "BeamNG.Earth-1.4.16-beta.exe",
+          "size_bytes": 45190888,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.16-beta/BeamNG.Earth-1.4.16-beta.exe"
+        }
+      ]
+    },
+    {
+      "tag": "v1.4.17-beta",
+      "commit_sha": "2f3029e324fd6011210d37e1803766a17ac5238b",
+      "title": "BeamNG.Earth 1.4.17-beta",
+      "published_at": "2026-10-17T04:28:05Z",
+      "release_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/tag/v1.4.17-beta",
+      "assets": [
+        {
+          "name": "BeamNG.Earth-1.4.17-beta-x86_64.AppImage",
+          "size_bytes": 66505208,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.17-beta/BeamNG.Earth-1.4.17-beta-x86_64.AppImage"
+        },
+        {
+          "name": "BeamNG.Earth-1.4.17-beta.exe",
+          "size_bytes": 45191695,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.17-beta/BeamNG.Earth-1.4.17-beta.exe"
+        }
+      ]
+    },
+    {
+      "tag": "v1.4.18-beta",
+      "commit_sha": "f618e24b6267c9cb93bb5cde8f6325519bd19d6a",
+      "title": "BeamNG.Earth 1.4.18-beta",
+      "published_at": "2026-10-17T04:33:59Z",
+      "release_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/tag/v1.4.18-beta",
+      "assets": [
+        {
+          "name": "BeamNG.Earth-1.4.18-beta-x86_64.AppImage",
+          "size_bytes": 66632184,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.18-beta/BeamNG.Earth-1.4.18-beta-x86_64.AppImage"
+        },
+        {
+          "name": "BeamNG.Earth-1.4.18-beta.exe",
+          "size_bytes": 45326641,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.18-beta/BeamNG.Earth-1.4.18-beta.exe"
+        }
+      ]
+    },
+    {
+      "tag": "v1.4.19-beta",
+      "commit_sha": "f4f10cc75810ce90e6f938b71744916a6a2b57c0",
+      "title": "BeamNG.Earth 1.4.19-beta",
+      "published_at": "2026-10-17T05:59:04Z",
+      "release_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/tag/v1.4.19-beta",
+      "assets": [
+        {
+          "name": "BeamNG.Earth-1.4.19-beta-x86_64.AppImage",
+          "size_bytes": 66636280,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.19-beta/BeamNG.Earth-1.4.19-beta-x86_64.AppImage"
+        },
+        {
+          "name": "BeamNG.Earth-1.4.19-beta.exe",
+          "size_bytes": 45328234,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.19-beta/BeamNG.Earth-1.4.19-beta.exe"
+        }
+      ]
+    },
+    {
+      "tag": "v1.4.20-beta",
+      "commit_sha": "d20f862b636617122c9194bbc9f329f4515701fd",
+      "title": "BeamNG.Earth 1.4.20-beta",
+      "published_at": "2026-10-17T06:27:08Z",
+      "release_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/tag/v1.4.20-beta",
+      "assets": [
+        {
+          "name": "BeamNG.Earth-1.4.20-beta-x86_64.AppImage",
+          "size_bytes": 66648568,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.20-beta/BeamNG.Earth-1.4.20-beta-x86_64.AppImage"
+        },
+        {
+          "name": "BeamNG.Earth-1.4.20-beta.exe",
+          "size_bytes": 45340600,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.20-beta/BeamNG.Earth-1.4.20-beta.exe"
+        }
+      ]
+    },
+    {
+      "tag": "v1.4.21-beta",
+      "commit_sha": "61a86535f299d58676dcef01251bea86de7b8c9e",
+      "title": "BeamNG.Earth 1.4.21-beta",
+      "published_at": "2026-10-17T06:37:05Z",
+      "release_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/tag/v1.4.21-beta",
+      "assets": [
+        {
+          "name": "BeamNG.Earth-1.4.21-beta-x86_64.AppImage",
+          "size_bytes": 66648568,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.21-beta/BeamNG.Earth-1.4.21-beta-x86_64.AppImage"
+        },
+        {
+          "name": "BeamNG.Earth-1.4.21-beta.exe",
+          "size_bytes": 45342419,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.21-beta/BeamNG.Earth-1.4.21-beta.exe"
+        }
+      ]
+    },
+    {
+      "tag": "v1.4.22-beta",
+      "commit_sha": "9350ae387329cf39f9786a7e1496af40b9fe8b77",
+      "title": "BeamNG.Earth 1.4.22-beta",
+      "published_at": "2026-10-17T08:10:50Z",
+      "release_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/tag/v1.4.22-beta",
+      "assets": [
+        {
+          "name": "BeamNG.Earth-1.4.22-beta-x86_64.AppImage",
+          "size_bytes": 66656760,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.22-beta/BeamNG.Earth-1.4.22-beta-x86_64.AppImage"
+        },
+        {
+          "name": "BeamNG.Earth-1.4.22-beta.exe",
+          "size_bytes": 45347126,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.22-beta/BeamNG.Earth-1.4.22-beta.exe"
+        }
+      ]
+    },
+    {
+      "tag": "v1.4.23-beta",
+      "commit_sha": "0b8f4f43f7b4b129d21b5cf256c5648a81b0dd0e",
+      "title": "BeamNG.Earth 1.4.23-beta",
+      "published_at": "2026-10-17T08:19:14Z",
+      "release_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/tag/v1.4.23-beta",
+      "assets": [
+        {
+          "name": "BeamNG.Earth-1.4.23-beta-x86_64.AppImage",
+          "size_bytes": 66656760,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.23-beta/BeamNG.Earth-1.4.23-beta-x86_64.AppImage"
+        },
+        {
+          "name": "BeamNG.Earth-1.4.23-beta.exe",
+          "size_bytes": 45347208,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.23-beta/BeamNG.Earth-1.4.23-beta.exe"
+        }
+      ]
+    },
+    {
+      "tag": "v1.4.24-beta",
+      "commit_sha": "568eb6cf78cf4509e44da833241ca611551cc712",
+      "title": "BeamNG.Earth 1.4.24-beta",
+      "published_at": "2026-10-17T08:34:57Z",
+      "release_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/tag/v1.4.24-beta",
+      "assets": [
+        {
+          "name": "BeamNG.Earth-1.4.24-beta-x86_64.AppImage",
+          "size_bytes": 66652664,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.24-beta/BeamNG.Earth-1.4.24-beta-x86_64.AppImage"
+        },
+        {
+          "name": "BeamNG.Earth-1.4.24-beta.exe",
+          "size_bytes": 45347184,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.24-beta/BeamNG.Earth-1.4.24-beta.exe"
+        }
+      ]
+    },
+    {
+      "tag": "v1.4.25-beta",
+      "commit_sha": "f595c5853b0d3bb75af2ed000979245075dd85cc",
+      "title": "BeamNG.Earth 1.4.25-beta",
+      "published_at": "2026-10-17T08:45:03Z",
+      "release_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/tag/v1.4.25-beta",
+      "assets": [
+        {
+          "name": "BeamNG.Earth-1.4.25-beta-x86_64.AppImage",
+          "size_bytes": 66652664,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.25-beta/BeamNG.Earth-1.4.25-beta-x86_64.AppImage"
+        },
+        {
+          "name": "BeamNG.Earth-1.4.25-beta.exe",
+          "size_bytes": 45346593,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.25-beta/BeamNG.Earth-1.4.25-beta.exe"
+        }
+      ]
+    },
+    {
+      "tag": "v1.4.26-beta",
+      "commit_sha": "cbcb3b82e7ebe5182cd5de72554044cd3d071963",
+      "title": "BeamNG.Earth 1.4.26-beta",
+      "published_at": "2026-10-17T09:07:36Z",
+      "release_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/tag/v1.4.26-beta",
+      "assets": [
+        {
+          "name": "BeamNG.Earth-1.4.26-beta-x86_64.AppImage",
+          "size_bytes": 66656760,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.26-beta/BeamNG.Earth-1.4.26-beta-x86_64.AppImage"
+        },
+        {
+          "name": "BeamNG.Earth-1.4.26-beta.exe",
+          "size_bytes": 45346615,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.26-beta/BeamNG.Earth-1.4.26-beta.exe"
+        }
+      ]
+    },
+    {
+      "tag": "v1.4.27-beta",
+      "commit_sha": "9e2e52496a2d2aa297e6284cc99790dd558e1cdc",
+      "title": "BeamNG.Earth 1.4.27-beta",
+      "published_at": "2026-10-17T09:33:52Z",
+      "release_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/tag/v1.4.27-beta",
+      "assets": [
+        {
+          "name": "BeamNG.Earth-1.4.27-beta-x86_64.AppImage",
+          "size_bytes": 66656760,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.27-beta/BeamNG.Earth-1.4.27-beta-x86_64.AppImage"
+        },
+        {
+          "name": "BeamNG.Earth-1.4.27-beta.exe",
+          "size_bytes": 45351667,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.27-beta/BeamNG.Earth-1.4.27-beta.exe"
+        }
+      ]
+    },
+    {
+      "tag": "v1.4.28-beta",
+      "commit_sha": "36a5756db0b6bd35f449cb028330e58e73bffba3",
+      "title": "BeamNG.Earth 1.4.28-beta",
+      "published_at": "2026-10-17T10:17:07Z",
+      "release_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/tag/v1.4.28-beta",
+      "assets": [
+        {
+          "name": "BeamNG.Earth-1.4.28-beta-x86_64.AppImage",
+          "size_bytes": 66656760,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.28-beta/BeamNG.Earth-1.4.28-beta-x86_64.AppImage"
+        },
+        {
+          "name": "BeamNG.Earth-1.4.28-beta.exe",
+          "size_bytes": 45352783,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.28-beta/BeamNG.Earth-1.4.28-beta.exe"
+        }
+      ]
+    },
+    {
+      "tag": "v1.4.29-beta",
+      "commit_sha": "8554b8991480050417a38ce96827ec6464dd023f",
+      "title": "BeamNG.Earth 1.4.29-beta",
+      "published_at": "2026-10-17T12:46:59Z",
+      "release_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/tag/v1.4.29-beta",
+      "assets": [
+        {
+          "name": "BeamNG.Earth-1.4.29-beta-x86_64.AppImage",
+          "size_bytes": 66660856,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.29-beta/BeamNG.Earth-1.4.29-beta-x86_64.AppImage"
+        },
+        {
+          "name": "BeamNG.Earth-1.4.29-beta.exe",
+          "size_bytes": 45352827,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.29-beta/BeamNG.Earth-1.4.29-beta.exe"
+        }
+      ]
+    },
+    {
+      "tag": "v1.4.30-beta",
+      "commit_sha": "e77990c66a743f6809a08e254c3f2bfe6c23e52f",
+      "title": "BeamNG.Earth 1.4.30-beta",
+      "published_at": "2026-10-17T13:12:21Z",
+      "release_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/tag/v1.4.30-beta",
+      "assets": [
+        {
+          "name": "BeamNG.Earth-1.4.30-beta-x86_64.AppImage",
+          "size_bytes": 66660856,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.30-beta/BeamNG.Earth-1.4.30-beta-x86_64.AppImage"
+        },
+        {
+          "name": "BeamNG.Earth-1.4.30-beta.exe",
+          "size_bytes": 45353697,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.30-beta/BeamNG.Earth-1.4.30-beta.exe"
+        }
+      ]
+    },
+    {
+      "tag": "v1.4.31-beta",
+      "commit_sha": "d030f1206db99d2a418cc39a3cbc654ec70e9f08",
+      "title": "BeamNG.Earth 1.4.31-beta",
+      "published_at": "2026-10-17T13:24:28Z",
+      "release_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/tag/v1.4.31-beta",
+      "assets": [
+        {
+          "name": "BeamNG.Earth-1.4.31-beta-x86_64.AppImage",
+          "size_bytes": 66660856,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.31-beta/BeamNG.Earth-1.4.31-beta-x86_64.AppImage"
+        },
+        {
+          "name": "BeamNG.Earth-1.4.31-beta.exe",
+          "size_bytes": 45356557,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.31-beta/BeamNG.Earth-1.4.31-beta.exe"
+        }
+      ]
+    },
+    {
+      "tag": "v1.4.32-beta",
+      "commit_sha": "1fe3bcd853d89932aa965ffabdaeabd68ed73517",
+      "title": "BeamNG.Earth 1.4.32-beta",
+      "published_at": "2026-10-17T13:34:35Z",
+      "release_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/tag/v1.4.32-beta",
+      "assets": [
+        {
+          "name": "BeamNG.Earth-1.4.32-beta-x86_64.AppImage",
+          "size_bytes": 66669048,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.32-beta/BeamNG.Earth-1.4.32-beta-x86_64.AppImage"
+        },
+        {
+          "name": "BeamNG.Earth-1.4.32-beta.exe",
+          "size_bytes": 45362326,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.32-beta/BeamNG.Earth-1.4.32-beta.exe"
+        }
+      ]
+    },
+    {
+      "tag": "v1.4.33-beta",
+      "commit_sha": "5fbc2a1c1fa1f55aed524d8af564ffb05ec4135e",
+      "title": "BeamNG.Earth 1.4.33-beta",
+      "published_at": "2026-10-17T14:00:52Z",
+      "release_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/tag/v1.4.33-beta",
+      "assets": [
+        {
+          "name": "BeamNG.Earth-1.4.33-beta-x86_64.AppImage",
+          "size_bytes": 66669048,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.33-beta/BeamNG.Earth-1.4.33-beta-x86_64.AppImage"
+        },
+        {
+          "name": "BeamNG.Earth-1.4.33-beta.exe",
+          "size_bytes": 45362094,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.33-beta/BeamNG.Earth-1.4.33-beta.exe"
+        }
+      ]
+    },
+    {
+      "tag": "v1.4.34-beta",
+      "commit_sha": "aa16ba72d766c29258c81e9640be801c970a8f62",
+      "title": "BeamNG.Earth 1.4.34-beta",
+      "published_at": "2026-10-17T14:58:33Z",
+      "release_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/tag/v1.4.34-beta",
+      "assets": [
+        {
+          "name": "BeamNG.Earth-1.4.34-beta-x86_64.AppImage",
+          "size_bytes": 66673144,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.34-beta/BeamNG.Earth-1.4.34-beta-x86_64.AppImage"
+        },
+        {
+          "name": "BeamNG.Earth-1.4.34-beta.exe",
+          "size_bytes": 45362870,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.34-beta/BeamNG.Earth-1.4.34-beta.exe"
+        }
+      ]
+    },
+    {
+      "tag": "v1.4.35-beta",
+      "commit_sha": "e6a8d3d01a287fd7885c547178e6a8729d36df2f",
+      "title": "BeamNG.Earth 1.4.35-beta",
+      "published_at": "2026-10-17T15:20:37Z",
+      "release_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/tag/v1.4.35-beta",
+      "assets": [
+        {
+          "name": "BeamNG.Earth-1.4.35-beta-x86_64.AppImage",
+          "size_bytes": 66664952,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.35-beta/BeamNG.Earth-1.4.35-beta-x86_64.AppImage"
+        },
+        {
+          "name": "BeamNG.Earth-1.4.35-beta.exe",
+          "size_bytes": 45363265,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.4.35-beta/BeamNG.Earth-1.4.35-beta.exe"
+        }
+      ]
+    },
+    {
+      "tag": "v1.5.0",
+      "commit_sha": "a4d37309dc881cc6517a47234b06286bcd0ff99c",
+      "title": "BeamNG.Earth 1.5.0-beta",
+      "published_at": "2026-10-19T02:05:55Z",
+      "release_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/tag/v1.5.0",
+      "assets": [
+        {
+          "name": "BeamNG.Earth-1.5.0-x86_64.AppImage",
+          "size_bytes": 67140088,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.5.0/BeamNG.Earth-1.5.0-x86_64.AppImage"
+        },
+        {
+          "name": "BeamNG.Earth-1.5.0.exe",
+          "size_bytes": 45840153,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.5.0/BeamNG.Earth-1.5.0.exe"
+        }
+      ]
+    },
+    {
+      "tag": "v1.5.1-beta",
+      "commit_sha": "1f60d19b9c9dd28996eb35a30f0ee309a6846507",
+      "title": "BeamNG.Earth 1.5.1-beta",
+      "published_at": "2026-10-19T04:14:47Z",
+      "release_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/tag/v1.5.1-beta",
+      "assets": [
+        {
+          "name": "BeamNG.Earth-1.5.1-beta-x86_64.AppImage",
+          "size_bytes": 67140088,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.5.1-beta/BeamNG.Earth-1.5.1-beta-x86_64.AppImage"
+        },
+        {
+          "name": "BeamNG.Earth-1.5.1-beta.exe",
+          "size_bytes": 45843173,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.5.1-beta/BeamNG.Earth-1.5.1-beta.exe"
+        }
+      ]
+    },
+    {
+      "tag": "v1.5.2-beta",
+      "commit_sha": "c703230adfedb3d3893444daf412cf7d8c6f5bd6",
+      "title": "BeamNG.Earth 1.5.2-beta",
+      "published_at": "2026-10-19T16:43:53Z",
+      "release_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/tag/v1.5.2-beta",
+      "assets": [
+        {
+          "name": "BeamNG.Earth-1.5.2-beta-x86_64.AppImage",
+          "size_bytes": 67140088,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.5.2-beta/BeamNG.Earth-1.5.2-beta-x86_64.AppImage"
+        },
+        {
+          "name": "BeamNG.Earth-1.5.2-beta.exe",
+          "size_bytes": 45843314,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.5.2-beta/BeamNG.Earth-1.5.2-beta.exe"
+        }
+      ]
+    },
+    {
+      "tag": "v1.5.3-beta",
+      "commit_sha": "011d6b54e42407b2f3a6deaddc47305cf2325a47",
+      "title": "BeamNG.Earth 1.5.3-beta",
+      "published_at": "2026-10-19T23:51:59Z",
+      "release_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/tag/v1.5.3-beta",
+      "assets": [
+        {
+          "name": "BeamNG.Earth-1.5.3-beta-x86_64.AppImage",
+          "size_bytes": 67222008,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.5.3-beta/BeamNG.Earth-1.5.3-beta-x86_64.AppImage"
+        },
+        {
+          "name": "BeamNG.Earth-1.5.3-beta.exe",
+          "size_bytes": 45920084,
+          "download_url": "https://github.com/TecnaGamer/BeamNG.Earth/releases/download/v1.5.3-beta/BeamNG.Earth-1.5.3-beta.exe"
+        }
+      ]
+    }
+  ]
+}
